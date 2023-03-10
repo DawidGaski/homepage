@@ -1,0 +1,22 @@
+.header {
+    color: rgb(25, 20, 55);
+    background-color: rgb(204, 196, 181);
+    border: outset;
+    border-color: rgb(131, 63, 63);
+    padding: 15px;
+    font-size: 20px;
+}
+
+.header__button {
+    color: aliceblue;
+    background-color: rgb(74, 74, 74);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.header__secondButton {
+    color: aliceblue;
+    background-color: rgb(74, 74, 74);
+    padding: 10px;
+    border-radius: 5px;
+}

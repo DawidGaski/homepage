@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    font-family: 'Roboto', sans-serif;
+    max-width: 1000px;
+    margin: auto;
+    background-color: rgb(74, 74, 74);
+    text-align: center;
+    line-height: 1.5;
+}
+.changeBackground {
+    background-color: rgb(199, 199, 199);
+}
+
+.changeText {
+    color: rgb(37, 37, 128);
+}
