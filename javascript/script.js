@@ -25,7 +25,7 @@
 
     };
 
-    let init = () => {
+    const init = () => {
         const header__button = document.querySelector(".js-button");
         const header__secondButton = document.querySelector(".js-secondButton");
 
